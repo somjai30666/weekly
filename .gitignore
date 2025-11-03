@@ -5,3 +5,4 @@ build/
 *.pyc
 *.tmp
 tmp/
+coverage/
