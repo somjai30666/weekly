@@ -6,3 +6,4 @@ build/
 *.tmp
 tmp/
 coverage/
+.cache/
